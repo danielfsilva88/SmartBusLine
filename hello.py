@@ -17,4 +17,4 @@ def hello():
 hello()
 jsonString = readNodesJsonFile()
 nodes = parseJsonString(jsonString)
-print nodes
+print (nodes)
